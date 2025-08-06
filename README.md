@@ -18,9 +18,6 @@ The tech stack includes Terraform, GitHub, Jenkins, Docker, ArgoCD, Helm, Kubern
 - [Quick Start](#quick-start)
 - [Detailed Setup Guide](#detailed-setup-guide)
 - [Monitoring & Alerts](#monitoring--alerts)
-- [Troubleshooting](#troubleshooting)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## 🎯 Project Overview
 
