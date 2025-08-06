@@ -54,7 +54,7 @@ module "efs" {
   subnet_ids = module.vpc.subnet_ids
   efs_ingress_rule = {
     "efs_inbound" = {
-      port = 2049
+      port = 2048
       protocol = "TCP"
       cidr_blocks = []
       description = "Allow NFS access from EKS nodes"
